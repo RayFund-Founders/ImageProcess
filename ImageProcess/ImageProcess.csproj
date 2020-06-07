@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <UserSecretsId>dotnet-ImageProcess-84D74D16-7F44-4C82-B9E3-8877778E2549</UserSecretsId>
+    <UserSecretsId>dotnet-ImageProcess-598F37AB-D0C1-431E-8042-48559901178B</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>

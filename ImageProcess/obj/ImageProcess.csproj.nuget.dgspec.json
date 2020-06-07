@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iliya\\Dev\\rayfund\\ImageProcess\\ImageProcess.csproj": {}
+    "C:\\Users\\iliya\\Dev\\rayfund\\ImageProcess\\ImageProcess\\ImageProcess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iliya\\Dev\\rayfund\\ImageProcess\\ImageProcess.csproj": {
+    "C:\\Users\\iliya\\Dev\\rayfund\\ImageProcess\\ImageProcess\\ImageProcess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iliya\\Dev\\rayfund\\ImageProcess\\ImageProcess.csproj",
+        "projectUniqueName": "C:\\Users\\iliya\\Dev\\rayfund\\ImageProcess\\ImageProcess\\ImageProcess.csproj",
         "projectName": "ImageProcess",
-        "projectPath": "C:\\Users\\iliya\\Dev\\rayfund\\ImageProcess\\ImageProcess.csproj",
+        "projectPath": "C:\\Users\\iliya\\Dev\\rayfund\\ImageProcess\\ImageProcess\\ImageProcess.csproj",
         "packagesPath": "C:\\Users\\iliya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iliya\\Dev\\rayfund\\ImageProcess\\obj\\",
+        "outputPath": "C:\\Users\\iliya\\Dev\\rayfund\\ImageProcess\\ImageProcess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iliya\\AppData\\Roaming\\NuGet\\NuGet.Config",

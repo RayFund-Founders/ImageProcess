@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "abad82nz9rh4IQ+JJ84u+z23a+FuhPVoaAX4mGOcuFyzvkmV96ObgwQ2suNU43ObjzJZYYD2lWtMjK/iAFHomg==",
+  "dgSpecHash": "F7BLBX9Ym3bgjVZdRiGHBnk1JA3O2F4ZjPxUEJYcmX/KkluiAZR0fSskOpRqT5diEg8sWS46flqXK+KVEJBJ+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iliya\\Dev\\rayfund\\ImageProcess\\ImageProcess.csproj",
+  "projectFilePath": "C:\\Users\\iliya\\Dev\\rayfund\\ImageProcess\\ImageProcess\\ImageProcess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iliya\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.4\\microsoft.extensions.configuration.3.1.4.nupkg.sha512",
     "C:\\Users\\iliya\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.4\\microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",
